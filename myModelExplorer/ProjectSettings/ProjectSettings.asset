@@ -546,7 +546,7 @@ PlayerSettings:
     ErrorHub: 0
     Hub: 0
     Purchasing: 0
-    UNet: 0
+    UNet: 1
     Unity_Ads: 0
   cloudProjectId: e3ade9e2-6176-4546-9481-89145758f455
   projectName: ModelExplorer
