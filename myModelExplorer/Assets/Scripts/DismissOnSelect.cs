@@ -10,7 +10,8 @@ public class DismissOnSelect : MonoBehaviour
     private AudioSource audioSource;
     private GameObject audioGameObject;
 
-    void OnSelect()
+    //void OnSelect(
+    void OnTap()
     {
         EnableAudioHapticFeedback();
 

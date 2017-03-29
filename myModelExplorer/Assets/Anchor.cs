@@ -43,7 +43,8 @@ public class Anchor : MonoBehaviour
         }
     }
 
-    void OnSelect()
+    //void OnSelect()
+    void OnTap()
     {
         if (anchorStore == null)
         {

@@ -106,7 +106,8 @@ public class Placeable : MonoBehaviour
     }
 
     //gameObject被选中时调用  
-    public void OnSelect()
+    //public void OnSelect()
+    public void OnTap()
     {
         if (!IsPlacing)
         {

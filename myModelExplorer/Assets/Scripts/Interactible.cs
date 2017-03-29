@@ -60,7 +60,8 @@ public class Interactible : MonoBehaviour
         }
     }
 
-    void OnSelect()
+   // void OnSelect()
+    void OnTap()
     {
         for (int i = 0; i < defaultMaterials.Length; i++)
         {
